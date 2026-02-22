@@ -1,17 +1,14 @@
 # 🌍 European Market Sales & Profitability Suite
-### منظومة تحليل المبيعات والربحية للسوق الأوروبي
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F2C811?style=for-the-badge&logo=databricks&logoColor=black)
 
 ---
 
-## 📌 Project Overview | نظرة عامة
+## 📌 Project Overview
 
-An interactive **Power BI multi-page dashboard** designed to analyze the performance of a retail business across the **European market from 2011 to 2015**. The project focuses on identifying profitability drivers, product performance, and customer behavior.
-
-> لوحة تحكم تفاعلية متعددة الصفحات تم بناؤها باستخدام Power BI لتحليل أداء مبيعات التجزئة في السوق الأوروبي (2011–2015). يركز المشروع على تحديد محركات الربحية وأداء المنتجات وتحليل سلوك العملاء.
+An interactive **multi-page Excel dashboard** designed to analyze the performance of a retail business across the **European market from 2011 to 2015**. The project focuses on identifying profitability drivers, product performance, and customer behavior.
 
 ---
 
@@ -21,7 +18,7 @@ Developed a comprehensive **5-report analytics suite** to monitor European sales
 
 ---
 
-## 📊 Key Features & Insights | المميزات والتحليلات الرئيسية
+## 📊 Key Features & Insights
 
 | Report Page | Focus Area | Key Insight |
 |---|---|---|
@@ -30,6 +27,25 @@ Developed a comprehensive **5-report analytics suite** to monitor European sales
 | **Operational Analysis** | Shipping Efficiency | Avg. shipping duration: 4 days |
 | **Profitability vs. Discount** | Pricing Strategy | High discounts on *Tables* = negative profit |
 | **Customer Segmentation** | Revenue by Segment | Consumer segment = primary revenue driver |
+
+---
+
+## 📸 Dashboard Screenshots
+
+### Report 1 — Executive Summary & KPIs
+![Executive Summary](screenshots/screenshot1.png)
+
+### Report 2 — Product Performance (Top & Bottom Sellers)
+![Product Performance](screenshots/screenshot2.png)
+
+### Report 3 — Sales & Profit Trends (2011–2015)
+![Sales Trends](screenshots/screenshot3.png)
+
+### Report 4 — Customer & Operational Analysis
+![Customer Analysis](screenshots/screenshot4.png)
+
+### Report 5 — Discount Impact on Profitability
+![Discount Impact](screenshots/screenshot5.png)
 
 ---
 
@@ -49,11 +65,12 @@ Developed a comprehensive **5-report analytics suite** to monitor European sales
 
 ---
 
-## 🛠️ Tech Stack | الأدوات المستخدمة
+## 🛠️ Tech Stack
 
-- **Power BI** — Data Visualization & Dashboarding
+- **Microsoft Excel** — Data Visualization & Interactive Dashboarding
 - **Power Query** — Data Cleaning & ETL (European regional data handling)
-- **DAX** — Complex measures including:
+- **Pivot Tables & Pivot Charts** — Dynamic data summarization and charting
+- **Advanced Excel Formulas** — Complex calculations including:
   - Profit Margin %
   - Average Discount Rate
   - Year-over-Year (YoY) Growth
@@ -71,10 +88,11 @@ Developed a comprehensive **5-report analytics suite** to monitor European sales
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository
-2. Open it in **Power BI Desktop** (free download from Microsoft)
-3. Use the slicers on each page to filter by country, year, segment, or category
-4. Navigate between report pages using the tabs at the bottom
+1. Download the `.xlsx` file from this repository
+2. Open it in **Microsoft Excel** (2016 or later recommended)
+3. Use the slicers and dropdowns on each sheet to filter by country, year, segment, or category
+4. Navigate between dashboard pages using the sheet tabs at the bottom
+5. 📸 See the `screenshots` folder for a preview of all dashboard pages
 
 ---
 
