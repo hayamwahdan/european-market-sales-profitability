@@ -33,19 +33,19 @@ Developed a comprehensive **5-report analytics suite** to monitor European sales
 ## 📸 Dashboard Screenshots
 
 ### Report 1 — Executive Summary & KPIs
-![Executive Summary](screenshots/screenshot1.png)
+![Executive Summary](screenshot1.png)
 
 ### Report 2 — Product Performance (Top & Bottom Sellers)
-![Product Performance](screenshots/screenshot2.png)
+![Product Performance](screenshot2.png)
 
 ### Report 3 — Sales & Profit Trends (2011–2015)
-![Sales Trends](screenshots/screenshot3.png)
+![Sales Trends](screenshot3.png)
 
 ### Report 4 — Customer & Operational Analysis
-![Customer Analysis](screenshots/screenshot4.png)
+![Customer Analysis](screenshot4.png)
 
 ### Report 5 — Discount Impact on Profitability
-![Discount Impact](screenshots/screenshot5.png)
+![Discount Impact](screenshot5.png)
 
 ---
 
